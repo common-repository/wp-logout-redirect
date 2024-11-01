@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="256" height="256"></rect>
+        <g id="blob-shape-(3)" transform="translate(229.663761, 95.453862) rotate(-36.000000) translate(-229.663761, -95.453862) translate(77.163761, -45.546138)" fill="#F2F2F2" fill-rule="nonzero">
+            <path d="M256.861351,12.5755193 C281.983621,18.6481689 296.186735,51.8836165 302.097857,84.4625613 C308.00898,117.041506 305.628111,148.881886 288.058942,167.346023 C270.407673,185.810161 237.486005,190.815993 213.51312,214.614215 C189.540234,238.4945 174.598231,281.08511 158.999435,281.987801 C143.40064,282.80843 127.145053,242.023201 95.1264734,220.768928 C63.1078936,199.596717 15.3263206,198.037523 3.33987789,180.311951 C-8.72866374,162.586379 14.915826,128.694429 26.573873,90.2890225 C38.3140189,51.8836165 37.9035243,9.04681744 58.0998593,1.33291111 C78.2961943,-6.2989324 118.935161,21.1921168 157.357457,24.3925673 C195.697654,27.6750806 231.739081,6.50286961 256.861351,12.5755193 Z" id="Path"></path>
+        </g>
+        <text id="Logout-Redirect" font-family="Roboto-Black, Roboto" font-size="53" font-weight="700" fill="#F54E2B">
+            <tspan x="44.5922852" y="115">Logout </tspan>
+            <tspan x="27.0075684" y="177">Redirect</tspan>
+        </text>
+    </g>
+</svg>
